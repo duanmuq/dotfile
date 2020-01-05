@@ -1,0 +1,5 @@
+*.bak
+**/.git
+**/.navicat64
+**/wine
+**/miniconda3
